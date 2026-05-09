@@ -9,7 +9,7 @@
           content="width=device-width, initial-scale=1.0">
 
     <title>
-        Happy Mother's Day Amma 💖
+        Happy Mother's Day Amma n Ammama 💖
     </title>
 
 <style>
@@ -325,7 +325,7 @@ yesBtn.addEventListener(
 function() {
 
 message.innerHTML = `
-💐💖 HAPPY MOTHER'S DAY AMMA💖💐
+💐💖 HAPPY MOTHER'S DAY AMMA N AMMAMA💖💐
 <br><br>
 You are the heart of our family ❤️<br><br>
 Your love, sacrifices, and endless care<br>
@@ -340,8 +340,8 @@ have been filled with
 love, happiness,
 comfort and laughter ❤️
 <br><br>
-I love you so much Amma 💕
-Happy Mother’s Day to the amazing mom 🌷
+I love you both so much 💕
+Happy Mother’s Day to our amazing moms 🌷
 <br>
 💌 From Athvidhyanaathan Saaluvar, Azhaghniyal & Amizhdhiiniyaal
 
